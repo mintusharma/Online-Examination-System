@@ -9,4 +9,13 @@ They just have to register on the site and enter the exam details and the lists 
 Students can give exam without the need of going to any physical destination. 
 They can view the result at the same time. Thus the purpose of the site is to provide a system that saves the efforts and time of both the institutes and the students.
 
+Tables to Be created ..
+Student Table
+Faculty Table
+Subject Table
+Question Table
+Result table
 
+Platform JAVA
+Database Using MYSql
+IDE Netbeans
